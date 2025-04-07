@@ -9,13 +9,13 @@ module.exports = {
 
   oneTimeMailGen: 10 * 100000,
 
-  telegramBotToken: "7788498936:AAGEqg-4Hyo53LDgwFUwe37vSgrFREhCRxg", // CC KILLER BOT
+  telegramBotToken: "8185513909:AAEFEjHZDrfjIXLmMnkiFAhd3z0157pHHuE", // CC KILLER BOT
   // bot token of telegram bot. Create a bot using https://t.me/BotFather then generate the token of the bot.
 
-  adminNamesForTelegramBot: ["notsoamin"], // CC KILLER BOT - https://t.me/BLACKHATMONKCHAT
+  adminNamesForTelegramBot: ["slayerback"], // CC KILLER BOT - https://t.me/BLACKHATMONKCHAT
   // name of the admin/developer who's name will be displayed when any unknown user use the command of the bot in telegram.
 
-  authorisedUserForTelegramBot: ["notsoamin"], // CC KILLER BOT
+  authorisedUserForTelegramBot: ["notsoamin,slayerback"], // CC KILLER BOT
   // username or id of the user who can use the bot.
 };
 
